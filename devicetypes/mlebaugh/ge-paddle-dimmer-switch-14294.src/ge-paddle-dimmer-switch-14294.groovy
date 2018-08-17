@@ -17,7 +17,7 @@
  */
 
 metadata {
-	definition (name: "GE Paddle Dimmer Switch 14294", namespace: "mahn", author: "Matt Ahn") {
+	definition (name: "GE In-Wall Smart Dimmer 14294", namespace: "mlebaugh", author: "Matt Ahn") {
         capability "Actuator"
  		capability "Switch"
         capability "Switch Level"
